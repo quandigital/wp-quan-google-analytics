@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: OP Google Analytics
-Plugin URI: http://www.oppstett.com/
+Plugin URI: https://github.com/wp-quan-google-analytics
 Description: Enables <a href="http://www.google.com/analytics/">Google Analytics</a> on all pages.
 Version: 1.0.0
 Author: Sebastian@Oppstett
