@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OP Google Analytics\n"
+"POT-Creation-Date: 2013-02-11 16:35+0100\n"
+"PO-Revision-Date: 2013-02-11 16:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Sebastian@Oppstett\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../options.php:11
+msgid "Web Property ID"
+msgstr "Web-Property-ID"
+
+#: ../options.php:16
+msgid "Site Speed Sample Rate (in percent)"
+msgstr "Stichprobengröße der Besucher (in Prozent)"
+
+#: ../options.php:21
+msgid "Bounce Timeout (in seconds, disabled when 0)"
+msgstr "Timeout für Seitenabsprung (in Sekunden, deaktiviert für Wert 0)"
+
+#: ../options.php:26
+msgid "User Track Times (comma seperated, in seconds)"
+msgstr "Trackzeiten (durch Komma getrennt, in Sekunden)"
+
+#: ../options.php:31
+msgid "Code Position"
+msgstr "Code Position"
+
+#: ../options.php:41
+msgid "Anonymize IP"
+msgstr "IP-Adressen anonymisieren"
+
+#: ../options.php:44 ../options.php:54 ../options.php:64 ../options.php:74
+msgid "Yes"
+msgstr "Ja"
+
+#: ../options.php:45 ../options.php:55 ../options.php:65 ../options.php:75
+msgid "No"
+msgstr "Nein"
+
+#: ../options.php:51
+msgid "Asynchronous Tracking"
+msgstr "Asynchroner Tracking-Code"
+
+#: ../options.php:61
+msgid "Track logged in User"
+msgstr "Eingeloggte Nutzer tracken"
+
+#: ../options.php:71
+msgid "Track clicked Links"
+msgstr "Besuchte Links tracken"
+
+#: ../options.php:85
+msgid "Save Changes"
+msgstr "Einstellungen speichern"
+
+#~ msgid "Head"
+#~ msgstr "Kopf"
+
+#~ msgid "Footer"
+#~ msgstr "Fuß"
